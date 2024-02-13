@@ -1,0 +1,11 @@
+.custom-thumb::-webkit-slider-thumb {
+    background-color: #f00; /* Red color for the thumb */
+  }
+  
+  .custom-thumb::-moz-range-thumb {
+    background-color: #f00; /* Red color for the thumb */
+  }
+  
+  .custom-thumb::-ms-thumb {
+    background-color: #f00; /* Red color for the thumb */
+  }

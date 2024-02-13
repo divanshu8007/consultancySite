@@ -1,0 +1,66 @@
+export default {
+    text6xl: {
+        default: 'text-6xl font-custom',
+        semibold: 'text-6xl font-semibold font-custom',
+        bold: 'text-6xl font-bold font-custom',
+        medium: 'text-6xl font-medium font-custom',
+        extraBold: 'text-6xl font-extrabold font-custom',
+      },
+      text5xl: {
+        default: 'text-5xl font-custom',
+        semibold: 'text-5xl font-semibold font-custom',
+        bold: 'text-5xl font-bold font-custom',
+        medium: 'text-5xl font-medium font-custom',
+        extraBold: 'text-5xl font-extrabold font-custom',
+      },
+    text4xl: { 
+      default: 'text-4xl md:text-3xl lg:text-4xl xl:text-5xl sm:text-2xl font-custom',
+      semibold: 'text-4xl md:text-3xl lg:text-4xl xl:text-5xl sm:text-2xl font-semibold font-custom',
+      bold: 'text-4xl md:text-3xl lg:text-4xl xl:text-5xl sm:text-2xl font-bold font-custom',
+      medium: 'text-4xl md:text-3xl lg:text-4xl xl:text-5xl sm:text-2xl font-medium font-custom',
+      extraBold: 'text-4xl md:text-3xl lg:text-4xl xl:text-5xl sm:text-2xl font-extrabold font-custom',
+    },
+    text3xl: {
+      default: 'text-3xl md:text-2xl lg:text-3xl xl:text-4xl sm:text-xl font-custom',
+      semibold: 'text-3xl md:text-2xl lg:text-3xl xl:text-4xl sm:text-xl font-semibold font-custom',
+      bold: 'text-3xl md:text-2xl lg:text-3xl xl:text-4xl sm:text-xl font-bold font-custom',
+      medium: 'text-3xl md:text-2xl lg:text-3xl xl:text-4xl sm:text-xl font-medium font-custom',
+      extraBold: 'text-3xl md:text-2xl lg:text-3xl xl:text-4xl sm:text-xl font-extrabold font-custom',
+    },
+    text2xl: {
+      default: 'text-2xl md:text-xl lg:text-2xl xl:text-3xl sm:text-lg font-custom',
+      semibold: 'text-2xl md:text-xl lg:text-2xl xl:text-3xl sm:text-lg font-semibold font-custom',
+      bold: 'text-2xl md:text-xl lg:text-2xl xl:text-3xl sm:text-lg font-bold font-custom',
+      medium: 'text-2xl md:text-xl lg:text-2xl xl:text-3xl sm:text-lg font-medium font-custom',
+      extraBold: 'text-2xl md:text-xl lg:text-2xl xl:text-3xl sm:text-lg font-extrabold font-custom',
+    },
+    textxl: {
+      default: 'text-xl md:text-lg lg:text-xl xl:text-2xl sm:text-base font-custom',
+      semibold: 'text-xl md:text-lg lg:text-xl xl:text-2xl sm:text-base font-semibold font-custom',
+      bold: 'text-xl md:text-lg lg:text-xl xl:text-2xl sm:text-base font-bold font-custom',
+      medium: 'text-xl md:text-lg lg:text-xl xl:text-2xl sm:text-base font-medium font-custom',
+      extraBold: 'text-xl md:text-lg lg:text-xl xl:text-2xl sm:text-base font-extrabold font-custom',
+    },
+    textlg: {
+      default: 'text-lg md:text-base lg:text-lg xl:text-xl sm:text-sm font-custom',
+      semibold: 'text-lg md:text-base lg:text-lg xl:text-xl sm:text-sm font-semibold font-custom',
+      bold: 'text-lg md:text-base lg:text-lg xl:text-xl sm:text-sm font-bold font-custom',
+      medium: 'text-lg md:text-base lg:text-lg xl:text-xl sm:text-sm font-medium font-custom',
+      extraBold: 'text-lg md:text-base lg:text-lg xl:text-xl sm:text-sm font-extrabold font-custom',
+    },
+    textbase: {
+      default: 'text-base md:text-sm lg:text-base xl:text-lg sm:text-xs font-custom',
+      semibold: 'text-base md:text-sm lg:text-base xl:text-lg sm:text-xs font-semibold font-custom',
+      bold: 'text-base md:text-sm lg:text-base xl:text-lg sm:text-xs font-bold font-custom',
+      medium: 'text-base md:text-sm lg:text-base xl:text-lg sm:text-xs font-medium font-custom',
+      extraBold: 'text-base md:text-sm lg:text-base xl:text-lg sm:text-xs font-extrabold font-custom',
+    },
+    textsm: {
+      default: 'text-sm md:text-xs lg:text-sm xl:text-base sm:text-xxs font-custom',
+      semibold: 'text-sm md:text-xs lg:text-sm xl:text-base sm:text-xxs font-semibold font-custom',
+      bold: 'text-sm md:text-xs lg:text-sm xl:text-base sm:text-xxs font-bold font-custom',
+      medium: 'text-sm md:text-xs lg:text-sm xl:text-base sm:text-xxs font-medium font-custom',
+      extraBold: 'text-sm md:text-xs lg:text-sm xl:text-base sm:text-xxs font-extrabold font-custom',
+    },
+  };
+  
